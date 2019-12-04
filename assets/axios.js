@@ -44,7 +44,7 @@
              doc.setFontSize(30).setTextColor(175, 236, 255).setFontType("bold").text(105, 70, `Hi!`);
              doc.text(50, 80, `${userName}`);
              doc.addImage(logo, ("JPEG"), 90, 15, 40, 40);
-             doc.setFontSize(10).setTextColor(175, 236, 255).textWithLink(`${userLocation}`, 70, 90, { url: `${userLocation}` });
+             doc.setFontSize(10).setTextColor(175, 236, 255).textWithLink(`${userLocation}`, 70, 90, { url: `https://www.google.com/maps/place/${userLocation}` });
              doc.textWithLink('GitHub', 110, 90, { url: `${userProfileLink}` });
              doc.textWithLink('Blog', 130, 90, { url: `${userBlog}` });
              doc.setFontSize(10).setTextColor(0, 74, 97);
