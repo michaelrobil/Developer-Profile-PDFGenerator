@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(0, 89, 116);
+}
+
+#bigicon {
+    font-size: 300px;
+    color: white;
+    margin-left: 40%;
+}
+
+#control-center {
+    margin: 20px 200px;
+    width: 70%;
+    height: 150px;
+    background-color: transparent;
+    border: #00ace0 double 3px;
+}
+
+#username {
+    background-color: #00ace0;
+    text-align: center;
+    color: white;
+    height: 30%;
+    width: 85%;
+    margin: 20px;
+    margin-left: 60px;
+}
+
+#smallicon {
+    color: black;
+    font-size: larger;
+}
+
+#get-btn {
+    background-image: radial-gradient(white, #00ace0, white);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 40%;
+    font-size: x-large;
+    margin-left: 30%;
+    font-weight: 900;
+}
