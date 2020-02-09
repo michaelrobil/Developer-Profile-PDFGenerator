@@ -1,5 +1,11 @@
 # Developer-Profile-PDFGenerator
-A command-line & web application that dynamically generates a PDF profile from a GitHub username. The application invoked with the following command:
+A command-line and web application that dynamically generates a PDF profile from a GitHub username.
+# Application Screenshots
+
+![pdf generator](https://user-images.githubusercontent.com/56613553/74095420-f1885080-4ab5-11ea-84d0-8fc7f575839e.jpg)
+
+
+The application invoked with the following command:
 Node.js
 pdfkit
 axios
