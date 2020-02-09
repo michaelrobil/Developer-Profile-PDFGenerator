@@ -26,6 +26,7 @@ The PDF will be populated with the following:
 * Number of public repositories
 * Number of followers
 * Number of users following
+![11-PDFGenerator](https://user-images.githubusercontent.com/56613553/74095465-fbf71a00-4ab6-11ea-82a9-23199d1bf083.png)
 
 ## About
 This is a command-line & web application that dynamically generates a PDF profile from a GitHub by username. 
